@@ -1,4 +1,4 @@
-#Sign Language Recognition
+# Sign Language Recognition
 
 The Gesture Recogniotion project relies on recogniotion gestures by neural network. Project using internet camera to find a hand and check which gesture is showing. Project was written full in Python tehnology. Project consists of:
 
